@@ -1,0 +1,148 @@
+* {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #7788A3;
+}
+h1, p {
+  font-family: Roboto;
+  margin-left: -10px;
+}
+
+.logo{
+  /* position: absolute; */
+  margin-left: 55px;
+  /* top: 17px;  */
+}
+
+.navbar {
+  background-color: #1f2640;
+  height: 60px;
+  margin: 0 -12px 0 -12px;
+}
+
+.top-header{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 50px;
+color: #2B416C;
+margin-left: 20px;
+}
+
+.sub__menu{
+  width: 200px;
+  height: 40px;
+  margin-left: 25px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: #83A515;
+  border-bottom: 3px solid #83A515;
+}
+.sub__nav{
+  margin-left: 25px;
+}
+thead{
+  background-color: #F1F1F4;
+}
+.table {
+  margin-left: 25px;
+  width: 95%;
+}
+.navbar__submenu{
+  background-color: #ffffff;
+}
+.close__btn{
+
+  border: 2px solid #181B34;
+  box-sizing: border-box;
+ border-radius: 0;
+  margin: auto;
+}
+
+td>img, span>img{
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+td>span.region{
+  font-weight: 400;
+  font-size:12px;
+  line-height: 24px;
+}
+th{
+  font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-transform: uppercase;
+color: #556789;
+}
+.lang{
+  position: relative;
+  left: 75%;
+  color: Black;
+  margin: 0px 10px 10px 0;
+}
+
+.modal-dim{
+  max-width: none;
+  width: 250px;
+height: 32px;
+top: 100px;
+}
+
+.modal__price{
+  color: #2B416C;
+  font-weight: 700;
+font-size: 16px;
+line-height: 32px;
+}
+.modal__sub{
+  font-size: 12px;
+  line-height: 24px;
+}
+.dollar__price{
+  font-size: 12px;
+  line-height: 24px;
+  position: absolute;
+  left: 190px;
+}
+
+.mod_img{
+  float: left;
+  width:80px;
+  height:80px;
+}
+.mod__desc{
+  position: absolute;
+  top: 15%;
+  left: 40%;
+  font-size: 12px;
+  line-height: 24px;
+}
+.mod__title{
+    color: #2B416C;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+}
+.date{
+  font-size: 14px;
+line-height: 24px;
+font-weight: 500;
+}
+.second_col_name{
+  font-size: 14px;
+  font-weight: 500;
+}
+.select__campaign{
+  text-align: center;
+  margin-top: 20px;
+}
